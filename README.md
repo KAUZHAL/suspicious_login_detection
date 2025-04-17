@@ -1,1 +1,2 @@
-We have created a suspicious login detection system under the guidance of Network and Information Security course faculty Professor Dr. Aswani Kumar Cherukuri.We will be utilizing and comparing 3 machine learning models results for the work and will be using the best model out of them while taking manual inputs.
+-We have created a suspicious login detection system under the guidance of Professor Dr. Aswani Kumar Cherukuri who is our faculty professor for the course Network and Information Security course.
+-We will be utilizing and comparing 3 machine learning models' results for the work and will be using the best model out of them for checking fraud detecting capability of the model on manual input.
